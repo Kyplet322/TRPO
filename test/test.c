@@ -40,7 +40,7 @@ CTEST2(test_data, test_d2)
 
 CTEST2(test_data, a_zero)
 {
-	data->a = 4;
+	data->a = 0;
 	data->b = 4;
 	data->c = 2;
 	data->ex_flg = 1;
