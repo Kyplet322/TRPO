@@ -26,7 +26,7 @@ CTEST2(test_data, test_d1)
 	data->real_d = discriminant(data->a, data->b, data->c);
 	ASSERT_EQUAL(data->ex_d, data->real_d);
 }
-
+//gfgf
 CTEST2(test_data, test_d2) 
 {
     data->a = 1;
