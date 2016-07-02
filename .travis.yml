@@ -1,4 +1,5 @@
 language: c
 compiler: gcc
 script:
+ - pwd
  - touch xxx.txt
